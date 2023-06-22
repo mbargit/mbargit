@@ -1,4 +1,4 @@
-### Hi, I'm Mo! &nbsp;&nbsp &#12299;I am a Computer Science student who dabbles in automation in anything and everything. Also an AI enthusiast!</sup>
+### Hi, I'm Mo! &nbsp; &#12299;I am a Computer Science student who dabbles in automation in anything and everything. Also an AI enthusiast!</sup>
 
 ----
 
