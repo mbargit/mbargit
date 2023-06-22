@@ -1,4 +1,4 @@
-### Hi, I'm Mo! &nbsp; &#12299;I am a Computer Science student who dabbles in automation in anything and everything. Also an AI enthusiast!</sup>
+### Hi, I'm frizzyyy! &nbsp; &#12299;I am an 18 year old software engineer from the UK.</sup>
 
 ----
 
@@ -14,7 +14,7 @@
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
 
-**Software Engineer** &#12299;_working on automation in Web3, AI cybersecurity and more_
+**Software Engineer** &#12299;_working on tools in Web3, AI cybersecurity and more_
 <br/>
 **Student** &#12299;_studing Computer Science_
 
