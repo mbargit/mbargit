@@ -14,6 +14,6 @@
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
 
-**Software Engineer** &#12299;_working on building cool stuff!-
+**Software Engineer** &#12299;_working on building cool stuff!_
 <br/>
 **Student** &#12299;_studying Computer Science_
