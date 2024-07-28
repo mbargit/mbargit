@@ -16,4 +16,4 @@
 
 **Software Engineer** &#12299;_working on building cool stuff!_
 <br/>
-**Student** &#12299;_studying Computer Science_
+**Student** &#12299;_studying Computer Science._
