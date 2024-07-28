@@ -1,4 +1,4 @@
-### Hi, I'm frizzyyy! &nbsp; &#12299;I am an 18 year old software engineer from the UK.</sup>
+### Hi, I'm Muhammad! &nbsp; &#12299;I am a 19 year old software engineer from the UK.</sup>
 
 ----
 
@@ -14,15 +14,6 @@
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
 
-**Software Engineer** &#12299;_working on tools in Web3, AI cybersecurity and more_
+**Software Engineer** &#12299;_working on building cool stuff!-
 <br/>
-**Student** &#12299;_studing Computer Science_
-
-----
-
-<a href="https://twitter.com/frizzyyy0">
-  <img align="left" alt="Mo's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
-</a>
-
-
-| &nbsp;&nbsp;&nbsp; Open Source Work : <sub>&#9660; &#9660; &#9660;</sub>
+**Student** &#12299;_studying Computer Science_
